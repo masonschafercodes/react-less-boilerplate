@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        rlb=rlb.__main__:main
-    
