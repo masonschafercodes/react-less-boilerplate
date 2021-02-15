@@ -1,5 +1,7 @@
 # React Less Boilerplate
 
+- I always hate all of the boilerplate testing and files that React adds to my project when I use cra, so I made this CLI to create me a project with none of that stuff.
+
 ## Install
 
 `[sudo] python setup.py install`
