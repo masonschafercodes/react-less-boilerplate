@@ -55,7 +55,8 @@ setup(
         'gitdb>=4.0.5',
         'gitpython>=3.1.13',
         'pyfiglet>=0.8.post1',
-        'smmap==3.0.1'
+        'smmap==3.0.1',
+        'pytest>=4.6.0'
     ],
 
     entry_points='''
