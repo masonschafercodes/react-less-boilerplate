@@ -60,6 +60,6 @@ setup(
 
     entry_points='''
         [console_scripts]
-        rlb=rlb.__main__:main
+        rlb=rlb.rlb:cli
     '''
 )
